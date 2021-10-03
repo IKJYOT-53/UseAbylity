@@ -58,7 +58,7 @@ with mp_hands.Hands(
                 fingers.append(0)
         totalFingers = fingers.count(1)
         print(totalFingers)
-        print(lmList)
+        
 
 
         if totalFingers == 4:
