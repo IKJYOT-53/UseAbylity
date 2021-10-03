@@ -52,7 +52,6 @@ The mapping of our hands to different co-ordinates and the precision of the syst
 
 ## What's next for UseAbylity
 
-:cry:
 
 We aim to package this software into an easy to install , working piece of software which can hopefully correct peoples posture and also be convenient to them.
 ![](https://imgr.search.brave.com/tpeRetm9GgLSsX6VuoMSu6a_k1NKzheBdOIeVoei86w/fit/300/300/ce/1/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJob3Bl/LmNvbS9qYXJnb24v/cC9wYWNrYWdlLW9w/ZW4uanBn)
