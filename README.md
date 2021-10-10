@@ -1,4 +1,3 @@
-# Sun_Hacks_2021
 ## Inspiration
 Online Classes inspired us the most for this project.
 So here goes the story!
@@ -21,8 +20,6 @@ It's a software that uses existing tech (webcams ) on laptops , and integrates t
 And not just media , we also made **one for the internet.**
 
 So now you can swish around as much as you like and feel like **Professor X** from x-men ( the guy who can move stuff using his finger alone)
-
-![](https://imgr.search.brave.com/aO9XwDyMKHAmr4FGqg2lDSVWLVj3xZnE7rFsIdOUxOc/fit/1200/721/ce/1/aHR0cHM6Ly9tZWRp/YS5jb21pY2Jvb2su/Y29tLzIwMTcvMDUv/eG1lbi1uZXctbXV0/YW50cy1jaGFybGVz/LXhhdmllci05OTU5/MjYtMTI4MHgwLnBu/Zw)
 
 ## How we built it
 We chose **python** ,for its diversity in library selections.
